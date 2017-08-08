@@ -1,9 +1,9 @@
 GCC-ARM embedded docker image with mbed-cli
 ===========================================
 
-This docker image contains all the necessary tools to build [mbed-os][mbed-os]
-based projects using the [mbed-cli][mbed-cli], the
-[GCC-ARM embedded toolchain][gcc-arm-embedded] and [GNU make][GNU make].
+This docker image contains all the necessary tools to build [mbed-os]
+based projects using the [mbed-cli], the
+[GCC-ARM embedded toolchain][gcc-arm-embedded] and [GNU make].
 
 This image is based on [docker-arm-embedded][docker-arm-embedded].
 

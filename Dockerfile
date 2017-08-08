@@ -1,4 +1,4 @@
-FROM docker-arm-embedded
+FROM productize/docker-arm-embedded:17.04
 MAINTAINER Seppe Stas <seppe@productize.be>
 LABEL Description="Image for building mbed projects using the gcc-arm-embedded toolchain"
 
